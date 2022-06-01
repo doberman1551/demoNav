@@ -47,7 +47,7 @@ function Nav() {
       <a
         className="inline-flex items-center px-2 py-2 rounded-lg text-white"
         href="https://www.capital.bg/"
-        target="_blank"
+        
       >
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <g id="Group_743" data-name="Group 743" transform="translate(-150 -8)">
@@ -73,7 +73,7 @@ function Nav() {
       <a
         className="inline-flex items-center px-2 py-2 rounded-lg text-white"
         href="https://www.capital.bg/"
-        target="_blank">
+        >
           <svg  xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
          <g id="Group_746" data-name="Group 746" transform="translate(-1290 -10)">
          <g id="Group_617" data-name="Group 617" transform="translate(883.094 -974.102)">
@@ -100,7 +100,7 @@ function Nav() {
       <a
         className="inline-flex items-center px-3 py-2 rounded-lg text-white"
         href="https://www.capital.bg/"
-        target="_blank"
+ 
       >
        
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
