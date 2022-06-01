@@ -31,7 +31,7 @@ function Nav() {
     </li>
 
     <li className="hidden lg:block" > 
-        <a className="px-2 py-2 rounded-lg text-white inline-flex items-center" href="" > 
+        <a className="px-2 py-2 rounded-lg text-white inline-flex items-center" href="https://www.capital.bg/" > 
 
         <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
   <circle id="Ellipse_406" data-name="Ellipse 406" cx="11" cy="11" r="11" fill="#fff"/>
@@ -46,7 +46,7 @@ function Nav() {
 <li className="hidden lg:block" > 
       <a
         className="inline-flex items-center px-2 py-2 rounded-lg text-white"
-        href=""
+        href="https://www.capital.bg/"
         target="_blank"
       >
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -72,7 +72,7 @@ function Nav() {
     <li>
       <a
         className="inline-flex items-center px-2 py-2 rounded-lg text-white"
-        href=""
+        href="https://www.capital.bg/"
         target="_blank">
           <svg  xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
          <g id="Group_746" data-name="Group 746" transform="translate(-1290 -10)">
@@ -99,7 +99,7 @@ function Nav() {
     <li className="hidden lg:block">
       <a
         className="inline-flex items-center px-3 py-2 rounded-lg text-white"
-        href=""
+        href="https://www.capital.bg/"
         target="_blank"
       >
        
