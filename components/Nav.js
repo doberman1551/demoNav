@@ -3,7 +3,7 @@ function Nav() {
 <nav className="flex items-center justify-around w-full bg-zinc-700">
   <a
     className="inline-flex items-center justify-center w-10 h-10 bg-gray-100 rounded-lg"
-    href="/"
+    href="capital.bg"
   >
     
   </a>
@@ -12,7 +12,7 @@ function Nav() {
     <li className="hidden lg:block text-white ">
 
     
-      <a className="px-2 py-2 rounded-lg inline-flex items-center" href="/"> 
+      <a className="px-2 py-2 rounded-lg inline-flex items-center" href="capital.bg"> 
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
          <g id="Group_746" data-name="Group 746" transform="translate(-1290 -10)">
          <g id="Group_617" data-name="Group 617" transform="translate(883.094 -974.102)">
