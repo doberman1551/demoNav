@@ -1,13 +1,7 @@
 function Nav() {
     return ( 
-<nav className="flex items-center justify-around w-full bg-zinc-700">
-  <a
-    className="inline-flex items-center justify-center w-10 h-10 bg-gray-100 rounded-lg"
-    href="capital.bg"
-  >
-    
-  </a>
-
+<nav className="flex justify-end  w-full bg-zinc-700">
+  
   <ul className="flex items-center space-x-2 text-sm font-medium text-white">
     <li className="hidden lg:block text-white ">
 
@@ -33,9 +27,10 @@ function Nav() {
     <li className="hidden lg:block" > 
         <a className="px-2 py-2 rounded-lg text-white inline-flex items-center" href="https://www.capital.bg/" > 
 
-        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <circle id="Ellipse_406" data-name="Ellipse 406" cx="11" cy="11" r="11" fill="#fff"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_664" data-name="Path 664" d="M332,2622a12,12,0,1,0,12,12A12,12,0,0,0,332,2622Zm7.817,10.517-3.385,2.743a.714.714,0,0,0-.247.736l1.077,4.149a.745.745,0,0,1-1.126.793l-3.737-2.274a.769.769,0,0,0-.8,0l-3.737,2.274a.745.745,0,0,1-1.126-.793l1.076-4.149a.714.714,0,0,0-.246-.736l-3.386-2.743a.723.723,0,0,1,.43-1.283l4.4-.29a.748.748,0,0,0,.645-.455l1.644-3.97a.759.759,0,0,1,1.392,0l1.644,3.97a.749.749,0,0,0,.645.455l4.4.29A.723.723,0,0,1,339.817,2632.517Z" transform="translate(-320 -2622)" fill="#00aeef"/>
 </svg>
+
 
     
     
@@ -86,7 +81,7 @@ function Nav() {
         </g>
 </svg>
 <span className="flex h-3 w-3 relative p-0">
-<span className=" absolute -top-[6px] -left-[10px] animate-ping absolute inline-flex h-2 w-2 rounded-full bg-red-100 opacity-75"></span>
+<span className=" absolute -top-[6px] -left-[10px] animate-ping absolute inline-flex h-3 w-3 rounded-full bg-red-100 opacity-75"></span>
 <span className="  absolute -top-[6px] -left-[10px] inline-flex rounded-full h-2 w-2 bg-rose-600"></span>  
 </span>
 <p className="pl-0 relative hover:text-sky-600">ВЛЕЗ В ПРОФИЛА СИ</p>
@@ -115,6 +110,11 @@ function Nav() {
        </p>
       </a>
     </li>
+    <div className="space-y-2 px-2">
+  <div className="w-8 h-1 bg-white rounded-xl"></div>
+  <div className="w-8 h-1 bg-white rounded-xl"></div>
+  <div className="w-8 h-1 bg-white rounded-xl"></div>
+</div>
   </ul>
 </nav>
 
