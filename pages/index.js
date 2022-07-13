@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
       <Nav/>
       <div className="flex justify-center">
-      <Image src="/tablet.jpg" width={768} height={410}></Image>
+      <Image src="/tablet1.png" width={768} height={410}></Image>
 
       </div>
      
