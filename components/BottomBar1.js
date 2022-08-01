@@ -2,10 +2,10 @@ function BottomBar1() {
     return ( 
         <div className="fixed inset-x-0 bottom-0">
   <div className="relative px-4 py-3 text-white bg-bluebar pr-14">
-    <p className="text-sm font-medium text-left sm:text-center">
-      Харествате този материал?</p>
-       <p className="sm:text-center py-1">     
-      <a className="underline sm:text-center" href="/alpinejs"> Регистрирайте се, за да четете повече безплатно &rarr; </a>
+    <p className="text-sm font-semibold text-left sm:text-center">
+      Харесвате този материал?</p>
+       <p className="sm:text-center py-1 font-semibold">     
+      <a className="underline sm:text-center" href="/alpinejs"> Регистрирайте се или влезте в профила си, за да четете повече безплатно &rarr; </a>
       </p>
 
     <button

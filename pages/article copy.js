@@ -3,13 +3,13 @@ import BottomBar1 from '../components/BottomBar1';
 import BottomBar2 from '../components/BottomBar2';
 import BottomBar3 from '../components/BottomBar3';
 
-export default function article() {
+export default function article2() {
 return (
     <div>
      
       <Nav/>
       
-      <BottomBar2/>
+      <BottomBar3/>
       
      
      

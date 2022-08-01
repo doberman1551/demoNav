@@ -9,7 +9,9 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        bluebar:"#3B5998"
+        bluebar:"#3B5998",
+        primary:"#00AEEF",
+        lightgray:"#00000029"
       }
     },
   },
