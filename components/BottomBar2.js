@@ -4,16 +4,16 @@ import Image from 'next/image';
 function BottomBar2() {
     return ( 
         <div className="fixed inset-x-0 bottom-0">
-  <div className="relative px-4 py-3 text-white bg-bluebar pr-14">
+  <div className="relative pt-4 pb-4 py-3 text-white bg-bluebar pr-14">
     <div className="flex justify-center items-center">
         <div className='px-2'>
-        <Image src='/aleks.png'  height={32} width={32} className='rounded-xl '/>
+        <Image src='/aleks.png'  height={36} width={36} className='rounded-full '/>
         </div>
-        <p className="text-sm font-medium text-left sm:text-center">
-      Харествате този материал?</p>
+        <p className="text-sm font-semibold text-left sm:text-center">
+      Харесвате този материал?</p>
       </div>
 
-       <p className="sm:text-center py-1">     
+       <p className="sm:text-center py-1 font-semibold">     
       <a className="underline sm:text-center" href="https://www.capital.bg/"> Регистрирайте се или влезте в профила си, за да четете повече безплатно &rarr; </a>
       </p>
      
