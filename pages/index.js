@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Nav from '../components/Nav'
 import Spline from '@splinetool/react-spline';
+import BottomBar1 from '../components/BottomBar1';
 
 export default function Home() {
   return (
@@ -15,11 +16,7 @@ export default function Home() {
       <div className="flex justify-center">
       <Image src="/tablet1.png" width={768} height={410}></Image>
       </div>
-
-      
-      <div className="h-50% w-50%">
-      <Spline scene="https://prod.spline.design/prASHFtxHQ-vcOPN/scene.splinecode" />
-    </div>
+      <BottomBar1/>
      
      
     </div>

@@ -7,7 +7,11 @@ module.exports = {
 
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        bluebar:"#3B5998"
+      }
+    },
   },
   plugins: [],
 }
