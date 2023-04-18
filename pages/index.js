@@ -17,7 +17,7 @@ export default function Home() {
       <Nav/>
   
 
-      <div >
+      <div className="mx-4" >
       <iframe className="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameBorder="1" onmouseWheel="" width="80%" height="533"></iframe>
 
       </div>
