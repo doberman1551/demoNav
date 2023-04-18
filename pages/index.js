@@ -16,7 +16,9 @@ export default function Home() {
       </Head>
       <Nav/>
   
-
+      <div>
+        <p>нфлацията се забавя до 14% през март благодарение на по-слаб ръст на цените на храните и спад при горивата, показват данни на НСИ. Понижението спрямо измерените през февруари 16% е най-рязкото, откакто инфлацията премина своя пик в края на миналата година и започна постепенно да се забавя. Сега показателят достига най-ниската си стойност от миналия март, макар да остава в</p>
+      </div>
       <div className="mx-4" >
       <iframe className="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameBorder="1" onmouseWheel="" width="80%" height="533"></iframe>
 
