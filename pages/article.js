@@ -9,7 +9,7 @@ return (
     <div>
      
       <Nav/>
-      <Form/>
+     
       <BottomBar2/>
       
      
