@@ -15,11 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Nav/>
-      <div className="flex justify-center">
-      
-      <Image src="/tablet1.png" width={768} height={410}></Image>
-      
-      </div>
+  
 
       <div >
       <iframe className="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameBorder="1" onmouseWheel="" width="80%" height="533"></iframe>
