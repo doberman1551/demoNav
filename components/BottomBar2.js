@@ -10,7 +10,7 @@ function BottomBar2() {
         <Image src='/aleks.png'  height={36} width={36} className='rounded-full '/>
         </div>
         <p className="text-sm font-semibold text-left sm:text-center">
-      Харесвате този материал?</p>
+      Харесвате тази статия ?</p>
       </div>
 
        <p className="sm:text-center py-1 font-semibold">     

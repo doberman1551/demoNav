@@ -3,9 +3,11 @@ import Image from 'next/image'
 import Nav from '../components/Nav'
 import Spline from '@splinetool/react-spline';
 import BottomBar1 from '../components/BottomBar1';
+import Script from 'next/script'
 
 export default function Home() {
   return (
+    <>
     <div>
       <Head>
         <title>Demo</title>
@@ -14,11 +16,21 @@ export default function Home() {
       </Head>
       <Nav/>
       <div className="flex justify-center">
+      
       <Image src="/tablet1.png" width={768} height={410}></Image>
+      
       </div>
-      <BottomBar1/>
+
+      <div >
+      <iframe class="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533"></iframe>
+
+      </div>
+      
+    
+      
      
      
     </div>
+    </>
   )
 }
