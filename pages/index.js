@@ -22,7 +22,7 @@ export default function Home() {
       </div>
 
       <div >
-      <iframe class="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533"></iframe>
+      <iframe className="airtable-embed" src="https://airtable.com/embed/shrcWM2emcSn9OoBK?backgroundColor=yellow&viewControls=on" frameBorder="0" onmousewheel="" width="100%" height="533"></iframe>
 
       </div>
       
